@@ -1,16 +1,40 @@
-Saját Paintjob, Alap SCS Traliereket supportál [Box Trailer, Tanker, Dumper]és egyenlőre Kamionokból: 
-- DAF 2021 
-- Iveco Stralis 
-- MAN TGX Euro 6 
-- New Mercedes Actros 2014 
-- DAF XF 
-- DAF XF Euro 6
-- MAN TGX 
-- Mercedes Actros 
-- Renault T 
-- Volvo FH 16
-- Volo FH16 2012
+Saját Paintjob
+Trucks supported:
+- DAF 2021
+- DAF XF
+- DAF XF105
+- Iveco Stralis
+- Iveco Stralis Hi-Way
+- MAN TGX
+- MAN TGX Euro 6
+- Mercedes-Benz Actros
+- Mercedes-Benz New Actros
+- Renault Magnum
+- Renault Premium
+- Renault T
 - Scania R
 - Scania R 2009
 - Scania S
-- Scania Streamline 
+- Scania Streamline
+- Volvo FH
+- Volvo FH Classic
+
+Trailers supported:
+- Feldbinder EUT
+- Feldbinder KIP
+- Feldbinder TSA ADR
+- Feldbinder TSA LM
+- Krone Cool Liner
+- Krone Dry Liner
+- Krone Paper Liner
+- Krone Profi Liner
+- Krone Profi Liner Building
+- Schwarzmüller Food Tank
+- Schwarzmüller Platform
+- Schwarzmüller Refrigerated
+- SCS Box Trailer
+- SCS Chemical Tank
+- SCS Dumper
+- SCS Food Tank
+- SCS Fuel Tank
+- SCS Silo
